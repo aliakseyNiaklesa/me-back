@@ -1,0 +1,22 @@
+{
+  "name": "me-back",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliakseyNiaklesa/me-back.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliakseyNiaklesa/me-back/issues"
+  },
+  "homepage": "https://github.com/aliakseyNiaklesa/me-back#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1353.0"
+  }
+}
